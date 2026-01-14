@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "Research Assistant",
+    "company": "University of Texas",
+    "date": "May 2025 - Present",
+    "description": "• Migrated the site from Jekyll to Next.js 14 using TypeScript and Tailwind CSS, built a responsive UI, and converted YAML content to typed JSON,\nresulting in faster page loads and easier content management\n• Implemented structured, filterable Team, News, and Publications sections with dynamic lists using React and SQL Server, which streamlined content\ndiscovery for users\n• Set up GitHub-to-Vercel CI/CD pipeline, enforced ESLint rules, and enabled Vercel Analytics, ensuring automated deployments, consistent code\nquality, and visibility into site performance",
+    "icon": "/default-company.png",
+    "iconBg": "#6b7c93"
+  },
+  {
+    "id": 2,
+    "title": "Full Stack Developer",
+    "company": "Gangavathiexports",
+    "date": "Jan 2024 - Jun 2024",
+    "description": "• Automated Magento Open Source installation on Ubuntu using Ansible and configured SMTP for custom domain emails, reducing deployment time\nby 75%.\n• Integrated a mobile-friendly theme, updated user content, and helped customers create configurable product listings improving inventory management\nefficiency by 40%.\n• Integrated a secure payment gateway and SEO best practices to improve search engine visibility and drive organic traffic.",
+    "icon": "/default-company.png",
+    "iconBg": "#264653"
+  },
+  {
+    "id": 3,
+    "title": "Software Developer Intern",
+    "company": "Maruti Constructions",
+    "date": "Sep 2021 - Aug 2022",
+    "description": "• Developed and deployed a machine learning system using Linear Regression algorithms to analyze historical real estate data, achieving 92% prediction\naccuracy and reducing estimation time by 75%.\n• Engineered robust data preprocessing pipelines with outlier detection and feature engineering, improving model performance by 38%.\n• Architected a scalable Flask RESTful API with Redis caching and MySQL integration, delivering real-time price predictions that maintained\nsub-second response times during peak traffic periods",
+    "icon": "/default-company.png",
+    "iconBg": "#6b7c93"
+  }
+]

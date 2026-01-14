@@ -1,0 +1,37 @@
+{
+  "email": "sampadasantoshpavate@gmail.com",
+  "phone": "+1 6824130496",
+  "socials": [
+    {
+      "name": "Email",
+      "username": "sampadasantoshpavate@gmail.com",
+      "url": "mailto:sampadasantoshpavate@gmail.com",
+      "icon": "email"
+    },
+    {
+      "name": "Phone",
+      "username": "+1 6824130496",
+      "url": "tel:+16824130496",
+      "icon": "phone"
+    },
+    {
+      "name": "LinkedIn",
+      "username": "https://www.linkedin.com/in/sampada-pavate-403131206/",
+      "url": "https://www.linkedin.com/in/sampada-pavate-403131206/",
+      "icon": "linkedin"
+    },
+    {
+      "name": "GitHub",
+      "username": "@KushagraSikka",
+      "url": "https://github.com/KushagraSikka",
+      "icon": "github"
+    },
+    {
+      "name": "Website",
+      "username": "sampada-pavate.github.io/",
+      "url": "https://sampada-pavate.github.io/",
+      "icon": "website"
+    }
+  ],
+  "repoUrl": "https://github.com/sampada-pavate"
+}

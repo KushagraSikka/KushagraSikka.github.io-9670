@@ -1,0 +1,280 @@
+[
+  {
+    "id": 1,
+    "name": "Learnify",
+    "image": "/default-project.png",
+    "description": "Built a comprehensive learning management platform by implementing content delivery, progress tracking, and e-commerce capabilities, serving the\ndiverse educational needs of the users.",
+    "tags": [],
+    "source_code": ""
+  },
+  {
+    "id": 2,
+    "name": "Maverick Market - Android E-Commerce Application",
+    "image": "/default-project.png",
+    "description": "Engineered a real-time Android e-commerce app with wishlist management, dynamic pricing, & image optimization.",
+    "tags": [],
+    "source_code": ""
+  },
+  {
+    "id": 3,
+    "name": "Deep Learning Based COVID-19 Detection",
+    "image": "/default-project.png",
+    "description": "Architected a CNN model for medical image analysis by applying transfer learning and custom layer configurations, achieving 94% accuracy in\nCOVID-19 detection from X-ray images, outperforming traditional methods by 15%.",
+    "tags": [
+      "CNN"
+    ],
+    "source_code": ""
+  },
+  {
+    "id": 4,
+    "name": "Brain Mapping EEG Classification",
+    "image": "/default-project.png",
+    "description": "2D DWT and ML for brain activity analysis.",
+    "tags": [],
+    "source_code": ""
+  },
+  {
+    "id": 5,
+    "name": "Security Automation in Python",
+    "image": "/default-project.png",
+    "description": "Log analysis, network monitoring.",
+    "tags": [
+      "Python"
+    ],
+    "source_code": ""
+  },
+  {
+    "id": 6,
+    "name": "Bank App Microservices",
+    "image": "/default-project.png",
+    "description": "Spring Cloud microservices for modular API.",
+    "tags": [
+      "Spring Cloud"
+    ],
+    "source_code": ""
+  },
+  {
+    "id": 7,
+    "name": "RAG_Microservice-",
+    "image": "/default-project.png",
+    "description": "RAG-Microservice: A robust, scalable question-answering service leveraging the Retriever-Answer Generator (RAG) architecture. Built with [Tech/Models used, e.g., Elasticsearch, GPT-3], this service efficiently retrieves relevant documents and generates precise answers for complex queries. ",
+    "tags": [
+      "Python",
+      "TypeScript",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "Dockerfile",
+      "Shell"
+    ],
+    "source_code": "https://github.com/KushagraSikka/RAG_Microservice-",
+    "demo": "https://github.com/KushagraSikka/RAG_Microservice-"
+  },
+  {
+    "id": 8,
+    "name": "comprehensive-mcp-guide",
+    "image": "/default-project.png",
+    "description": " The Complete Model Context Protocol (MCP) Guide - 181 files, 15+ commits, 100+ examples",
+    "tags": [
+      "JavaScript"
+    ],
+    "source_code": "https://github.com/KushagraSikka/comprehensive-mcp-guide",
+    "demo": "https://github.com/KushagraSikka/comprehensive-mcp-guide"
+  },
+  {
+    "id": 9,
+    "name": "Gator_taxi_Advanced_data_struc",
+    "image": "/default-project.png",
+    "description": "GatorTaxi is a ride-sharing system that efficiently manages ride requests using a Red-Black Tree (RBT) and Min-Heap. The system supports inserting, updating, querying, and canceling rides, ensuring fast operations. With O(log n) complexity, it handles up to 2000 active rides, offering optimal performance for real-time ride management.",
+    "tags": [
+      "Python",
+      "Makefile"
+    ],
+    "source_code": "https://github.com/KushagraSikka/Gator_taxi_Advanced_data_struc",
+    "demo": "https://github.com/KushagraSikka/Gator_taxi_Advanced_data_struc"
+  },
+  {
+    "id": 10,
+    "name": "bank-app-spring-cloud-microservices",
+    "image": "/default-project.png",
+    "description": "Practice repository for exploring advanced features",
+    "tags": [
+      "Java"
+    ],
+    "source_code": "https://github.com/KushagraSikka/bank-app-spring-cloud-microservices",
+    "demo": "https://github.com/KushagraSikka/bank-app-spring-cloud-microservices"
+  },
+  {
+    "id": 11,
+    "name": "minikeyvalue",
+    "image": "/default-project.png",
+    "description": "Interactive application built for continuous learning",
+    "tags": [
+      "Go",
+      "Python",
+      "Shell",
+      "Dockerfile"
+    ],
+    "source_code": "https://github.com/KushagraSikka/minikeyvalue",
+    "demo": "https://github.com/KushagraSikka/minikeyvalue"
+  },
+  {
+    "id": 12,
+    "name": "portfolio",
+    "image": "/default-project.png",
+    "description": "A modern, responsive portfolio template with JSON-driven content, beautiful design, and easy customization. Perfect for developers, designers, and professionals.",
+    "tags": [
+      "JavaScript",
+      "CSS",
+      "Shell",
+      "HTML"
+    ],
+    "source_code": "https://github.com/KushagraSikka/portfolio",
+    "demo": "https://github.com/KushagraSikka/portfolio"
+  },
+  {
+    "id": 13,
+    "name": "KushagraSikka.github.io-6560",
+    "image": "/default-project.png",
+    "description": "Professional portfolio for KushagraSikka",
+    "tags": [
+      "CSS",
+      "JavaScript",
+      "HTML"
+    ],
+    "source_code": "https://github.com/KushagraSikka/KushagraSikka.github.io-6560",
+    "demo": "https://github.com/KushagraSikka/KushagraSikka.github.io-6560"
+  },
+  {
+    "id": 14,
+    "name": "data-pipeline-with-dbt-using-airflow-on-gcp",
+    "image": "/default-project.png",
+    "description": "Educational project for mastering software architecture",
+    "tags": [
+      "Python",
+      "Dockerfile"
+    ],
+    "source_code": "https://github.com/KushagraSikka/data-pipeline-with-dbt-using-airflow-on-gcp",
+    "demo": "https://github.com/KushagraSikka/data-pipeline-with-dbt-using-airflow-on-gcp"
+  },
+  {
+    "id": 15,
+    "name": "python-for-automating-information-security",
+    "image": "/default-project.png",
+    "description": "Hands-on learning experience with modern frameworks",
+    "tags": [
+      "Python"
+    ],
+    "source_code": "https://github.com/KushagraSikka/python-for-automating-information-security",
+    "demo": "https://github.com/KushagraSikka/python-for-automating-information-security"
+  },
+  {
+    "id": 16,
+    "name": "symptom-checker-chatbot",
+    "image": "/default-project.png",
+    "description": "Interactive application built for continuous learning",
+    "tags": [
+      "HTML",
+      "Python",
+      "JavaScript",
+      "CSS"
+    ],
+    "source_code": "https://github.com/KushagraSikka/symptom-checker-chatbot",
+    "demo": "https://github.com/KushagraSikka/symptom-checker-chatbot"
+  },
+  {
+    "id": 17,
+    "name": "about-section-fix-test",
+    "image": "/default-project.png",
+    "description": "Professional portfolio for KushagraSikka",
+    "tags": [
+      "CSS",
+      "JavaScript",
+      "HTML"
+    ],
+    "source_code": "https://github.com/KushagraSikka/about-section-fix-test",
+    "demo": "https://github.com/KushagraSikka/about-section-fix-test"
+  },
+  {
+    "id": 18,
+    "name": "sentiment-analysis-webapp-sagemaker",
+    "image": "/default-project.png",
+    "description": "Full-featured application built as a learning exercise",
+    "tags": [
+      "Jupyter Notebook",
+      "Python",
+      "HTML"
+    ],
+    "source_code": "https://github.com/KushagraSikka/sentiment-analysis-webapp-sagemaker",
+    "demo": "https://github.com/KushagraSikka/sentiment-analysis-webapp-sagemaker"
+  },
+  {
+    "id": 19,
+    "name": "itinerary-planner",
+    "image": "/default-project.png",
+    "description": "Personal development project using industry best practices",
+    "tags": [
+      "Java",
+      "CSS",
+      "HTML"
+    ],
+    "source_code": "https://github.com/KushagraSikka/itinerary-planner",
+    "demo": "https://github.com/KushagraSikka/itinerary-planner"
+  },
+  {
+    "id": 20,
+    "name": "patient-appointment-system",
+    "image": "/default-project.png",
+    "description": "Hands-on learning experience with modern frameworks",
+    "tags": [
+      "JavaScript",
+      "CSS",
+      "HTML"
+    ],
+    "source_code": "https://github.com/KushagraSikka/patient-appointment-system",
+    "demo": "https://github.com/KushagraSikka/patient-appointment-system"
+  },
+  {
+    "id": 21,
+    "name": "gatordwelling2",
+    "image": "/default-project.png",
+    "description": "Interactive application built for continuous learning",
+    "tags": [
+      "JavaScript",
+      "CSS",
+      "HTML",
+      "Python"
+    ],
+    "source_code": "https://github.com/KushagraSikka/gatordwelling2",
+    "demo": "https://github.com/KushagraSikka/gatordwelling2"
+  },
+  {
+    "id": 22,
+    "name": "brain-mapping-eeg-classification",
+    "image": "/default-project.png",
+    "description": "Brain Mapping using EEG Signal Classification - A 2013-era implementation using 2D DWT and pattern matching for normal/abnormal EEG classification",
+    "tags": [
+      "Python",
+      "JavaScript",
+      "CSS",
+      "HTML",
+      "Shell",
+      "Dockerfile"
+    ],
+    "source_code": "https://github.com/KushagraSikka/brain-mapping-eeg-classification",
+    "demo": "https://github.com/KushagraSikka/brain-mapping-eeg-classification"
+  },
+  {
+    "id": 23,
+    "name": "devconnector_2-0",
+    "image": "/default-project.png",
+    "description": "Practice repository for exploring advanced features",
+    "tags": [
+      "JavaScript",
+      "HTML",
+      "CSS"
+    ],
+    "source_code": "https://github.com/KushagraSikka/devconnector_2-0",
+    "demo": "https://github.com/KushagraSikka/devconnector_2-0"
+  }
+]

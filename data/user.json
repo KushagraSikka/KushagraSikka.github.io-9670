@@ -1,0 +1,8 @@
+{
+  "name": "Sampada Santosh Pavate",
+  "title": "Professional Developer",
+  "shortBio": "Mid-level full-stack developer with strong experience modernizing web applications and automating deployment pipelines. Delivered a site migration\nfrom Jekyll to Next.js 14 with TypeScript, Tailwind CSS, and Vercel CI/CD, and automated Magento Open Source installation on Ubuntu using Ansible,\ncutting deployment time by 75%. Skilled in building responsive UIs, integrating secure payment gateways, and applying SEO best practices to boost\norganic traffic. Ready to apply this blend of front-end, back-end, and DevOps expertise to drive efficient, high-quality product delivery.",
+  "location": "Arlington, Texas",
+  "avatarUrl": "/avatar.png",
+  "resumeUrl": "/resume.pdf"
+}

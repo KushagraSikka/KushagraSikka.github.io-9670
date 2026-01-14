@@ -1,0 +1,211 @@
+{
+  "user": {
+    "login": "KushagraSikka",
+    "avatar_url": "https://github.com/KushagraSikka.png",
+    "public_repos": 20,
+    "followers": 0,
+    "following": 0
+  },
+  "repos": [
+    {
+      "id": 1,
+      "name": "RAG_Microservice-",
+      "description": "RAG-Microservice: A robust, scalable question-answering service leveraging the Retriever-Answer Generator (RAG) architecture. Built with [Tech/Models used, e.g., Elasticsearch, GPT-3], this service efficiently retrieves relevant documents and generates precise answers for complex queries. ",
+      "html_url": "https://github.com/KushagraSikka/RAG_Microservice-",
+      "language": "Python",
+      "stargazers_count": 16,
+      "forks_count": 2,
+      "watchers_count": 16
+    },
+    {
+      "id": 2,
+      "name": "comprehensive-mcp-guide",
+      "description": " The Complete Model Context Protocol (MCP) Guide - 181 files, 15+ commits, 100+ examples",
+      "html_url": "https://github.com/KushagraSikka/comprehensive-mcp-guide",
+      "language": "JavaScript",
+      "stargazers_count": 1,
+      "forks_count": 1,
+      "watchers_count": 1
+    },
+    {
+      "id": 3,
+      "name": "Gator_taxi_Advanced_data_struc",
+      "description": "GatorTaxi is a ride-sharing system that efficiently manages ride requests using a Red-Black Tree (RBT) and Min-Heap. The system supports inserting, updating, querying, and canceling rides, ensuring fast operations. With O(log n) complexity, it handles up to 2000 active rides, offering optimal performance for real-time ride management.",
+      "html_url": "https://github.com/KushagraSikka/Gator_taxi_Advanced_data_struc",
+      "language": "Python",
+      "stargazers_count": 1,
+      "forks_count": 1,
+      "watchers_count": 1
+    },
+    {
+      "id": 4,
+      "name": "bank-app-spring-cloud-microservices",
+      "description": "Practice repository for exploring advanced features",
+      "html_url": "https://github.com/KushagraSikka/bank-app-spring-cloud-microservices",
+      "language": "Java",
+      "stargazers_count": 1,
+      "forks_count": 0,
+      "watchers_count": 1
+    },
+    {
+      "id": 5,
+      "name": "minikeyvalue",
+      "description": "Interactive application built for continuous learning",
+      "html_url": "https://github.com/KushagraSikka/minikeyvalue",
+      "language": "Go",
+      "stargazers_count": 1,
+      "forks_count": 0,
+      "watchers_count": 1
+    },
+    {
+      "id": 6,
+      "name": "portfolio",
+      "description": "A modern, responsive portfolio template with JSON-driven content, beautiful design, and easy customization. Perfect for developers, designers, and professionals.",
+      "html_url": "https://github.com/KushagraSikka/portfolio",
+      "language": "JavaScript",
+      "stargazers_count": 0,
+      "forks_count": 1,
+      "watchers_count": 0
+    },
+    {
+      "id": 7,
+      "name": "KushagraSikka.github.io-6560",
+      "description": "Professional portfolio for KushagraSikka",
+      "html_url": "https://github.com/KushagraSikka/KushagraSikka.github.io-6560",
+      "language": "CSS",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "watchers_count": 0
+    },
+    {
+      "id": 8,
+      "name": "KushagraSikka.github.io-7938",
+      "description": "Professional portfolio for KushagraSikka",
+      "html_url": "https://github.com/KushagraSikka/KushagraSikka.github.io-7938",
+      "language": "CSS",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "watchers_count": 0
+    },
+    {
+      "id": 9,
+      "name": "data-pipeline-with-dbt-using-airflow-on-gcp",
+      "description": "Educational project for mastering software architecture",
+      "html_url": "https://github.com/KushagraSikka/data-pipeline-with-dbt-using-airflow-on-gcp",
+      "language": "Python",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "watchers_count": 0
+    },
+    {
+      "id": 10,
+      "name": "KushagraSikka.github.io-8591",
+      "description": "Professional portfolio for KushagraSikka",
+      "html_url": "https://github.com/KushagraSikka/KushagraSikka.github.io-8591",
+      "language": "CSS",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "watchers_count": 0
+    },
+    {
+      "id": 11,
+      "name": "KushagraSikka.github.io-4686",
+      "description": "Professional portfolio for KushagraSikka",
+      "html_url": "https://github.com/KushagraSikka/KushagraSikka.github.io-4686",
+      "language": "CSS",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "watchers_count": 0
+    },
+    {
+      "id": 12,
+      "name": "python-for-automating-information-security",
+      "description": "Hands-on learning experience with modern frameworks",
+      "html_url": "https://github.com/KushagraSikka/python-for-automating-information-security",
+      "language": "Python",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "watchers_count": 0
+    },
+    {
+      "id": 13,
+      "name": "symptom-checker-chatbot",
+      "description": "Interactive application built for continuous learning",
+      "html_url": "https://github.com/KushagraSikka/symptom-checker-chatbot",
+      "language": "HTML",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "watchers_count": 0
+    },
+    {
+      "id": 14,
+      "name": "about-section-fix-test",
+      "description": "Professional portfolio for KushagraSikka",
+      "html_url": "https://github.com/KushagraSikka/about-section-fix-test",
+      "language": "CSS",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "watchers_count": 0
+    },
+    {
+      "id": 15,
+      "name": "sentiment-analysis-webapp-sagemaker",
+      "description": "Full-featured application built as a learning exercise",
+      "html_url": "https://github.com/KushagraSikka/sentiment-analysis-webapp-sagemaker",
+      "language": "Jupyter Notebook",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "watchers_count": 0
+    },
+    {
+      "id": 16,
+      "name": "itinerary-planner",
+      "description": "Personal development project using industry best practices",
+      "html_url": "https://github.com/KushagraSikka/itinerary-planner",
+      "language": "Java",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "watchers_count": 0
+    },
+    {
+      "id": 17,
+      "name": "patient-appointment-system",
+      "description": "Hands-on learning experience with modern frameworks",
+      "html_url": "https://github.com/KushagraSikka/patient-appointment-system",
+      "language": "JavaScript",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "watchers_count": 0
+    },
+    {
+      "id": 18,
+      "name": "gatordwelling2",
+      "description": "Interactive application built for continuous learning",
+      "html_url": "https://github.com/KushagraSikka/gatordwelling2",
+      "language": "JavaScript",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "watchers_count": 0
+    },
+    {
+      "id": 19,
+      "name": "brain-mapping-eeg-classification",
+      "description": "Brain Mapping using EEG Signal Classification - A 2013-era implementation using 2D DWT and pattern matching for normal/abnormal EEG classification",
+      "html_url": "https://github.com/KushagraSikka/brain-mapping-eeg-classification",
+      "language": "Python",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "watchers_count": 0
+    },
+    {
+      "id": 20,
+      "name": "devconnector_2-0",
+      "description": "Practice repository for exploring advanced features",
+      "html_url": "https://github.com/KushagraSikka/devconnector_2-0",
+      "language": "JavaScript",
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "watchers_count": 0
+    }
+  ]
+}

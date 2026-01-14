@@ -1,0 +1,48 @@
+{
+  "categories": [
+    {
+      "name": "Programming Languages",
+      "icon": "fas fa-code",
+      "skills": [
+        "Python",
+        "Java",
+        "C++",
+        "R",
+        "Ruby"
+      ]
+    },
+    {
+      "name": "Frameworks & Libraries",
+      "icon": "fas fa-toolbox",
+      "skills": [
+        "React",
+        "Next.js",
+        "Node.js",
+        "Flask"
+      ]
+    },
+    {
+      "name": "Databases",
+      "icon": "fas fa-database",
+      "skills": [
+        "MySQL"
+      ]
+    },
+    {
+      "name": "Technical Skills",
+      "icon": "fas fa-laptop-code",
+      "skills": [
+        "HTML",
+        "CSS",
+        "TensorFlow",
+        "Keras",
+        "PyTorch",
+        "Scikit-learn",
+        "OpenCV",
+        "NLP",
+        "Streamlit",
+        "SQL Server"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "degree": "Master of Science",
+    "school": "University of Texas",
+    "date": "Aug 2023 - May 2025",
+    "description": "Computer Science. GPA: 3.66",
+    "icon": "/default-school.png",
+    "iconBg": "#6b7c93"
+  },
+  {
+    "id": 2,
+    "degree": "Bachelor of Engineering",
+    "school": "Visvesvaraya Technological University (GMIT)",
+    "date": "Aug 2019 - Jul 2023",
+    "description": "Computer Science. GPA: 3.32",
+    "icon": "/default-school.png",
+    "iconBg": "#9B59B6"
+  }
+]
